@@ -1,0 +1,4 @@
+HermanApp.MainActivity, HermanApp;md5fe0e9baed5fe989e21e89c3adc4f12e0.MainActivity
+HermanApp.MainActivity, HermanApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fe0e9baed5fe989e21e89c3adc4f12e0.MainActivity
+HermanApp.MainActivity;md5fe0e9baed5fe989e21e89c3adc4f12e0.MainActivity
+hermanapp.MainActivity;md5fe0e9baed5fe989e21e89c3adc4f12e0.MainActivity

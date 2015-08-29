@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Projects\HermanApp\HermanApp.UITests\bin\Debug\HermanApp.UITests.dll
+C:\Users\user\Documents\Projects\HermanApp\HermanApp.UITests\bin\Debug\HermanApp.UITests.pdb
+C:\Users\user\Documents\Projects\HermanApp\HermanApp.UITests\bin\Debug\mscorlib.dll
+C:\Users\user\Documents\Projects\HermanApp\HermanApp.UITests\bin\Debug\nunit.framework.dll
+C:\Users\user\Documents\Projects\HermanApp\HermanApp.UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\user\Documents\Projects\HermanApp\HermanApp.UITests\bin\Debug\nunit.framework.xml
+C:\Users\user\Documents\Projects\HermanApp\HermanApp.UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\user\Documents\Projects\HermanApp\HermanApp.UITests\bin\Debug\normidna.nlp
+C:\Users\user\Documents\Projects\HermanApp\HermanApp.UITests\bin\Debug\normnfc.nlp
+C:\Users\user\Documents\Projects\HermanApp\HermanApp.UITests\bin\Debug\normnfd.nlp
+C:\Users\user\Documents\Projects\HermanApp\HermanApp.UITests\bin\Debug\normnfkc.nlp
+C:\Users\user\Documents\Projects\HermanApp\HermanApp.UITests\bin\Debug\normnfkd.nlp
+C:\Users\user\Documents\Projects\HermanApp\HermanApp.UITests\obj\Debug\HermanApp.UITests.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Projects\HermanApp\HermanApp.UITests\obj\Debug\HermanApp.UITests.dll
+C:\Users\user\Documents\Projects\HermanApp\HermanApp.UITests\obj\Debug\HermanApp.UITests.pdb

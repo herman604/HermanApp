@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\bin\Debug\HermanApp.dll
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\bin\Debug\HermanApp.pdb
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\bin\Debug\com.companyname.hermanapp.apk
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\bin\Debug\com.companyname.hermanapp-Signed.apk
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\obj\Debug\HermanApp.dll
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\obj\Debug\HermanApp.pdb
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\obj\Debug\android\bin\com.companyname.hermanapp.apk
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\obj\Debug\res\layout\main.xml
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\obj\Debug\res\values\strings.xml
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\obj\Debug\R.cs.flag
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\obj\Debug\uploadflags.txt

@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\obj\Debug\assemblies\HermanApp.dll
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\obj\Debug\assemblies\mscorlib.dll
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\obj\Debug\assemblies\System.Core.dll
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\obj\Debug\assemblies\System.dll
+C:\Users\user\Documents\Projects\HermanApp\HermanApp\obj\Debug\assemblies\System.Xml.dll
